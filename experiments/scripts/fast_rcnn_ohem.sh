@@ -27,7 +27,7 @@ case $DATASET in
     TRAIN_IMDB="voc_2007_trainval"
     TEST_IMDB="voc_2007_test"
     PT_DIR="pascal_voc"
-    ITERS=40000
+    ITERS=80000
     ;;
   coco)
     echo "Support coming soon. Stay tuned!"
